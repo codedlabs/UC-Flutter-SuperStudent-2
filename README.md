@@ -7,3 +7,6 @@
 1. image widget
 2. button widget
 3. function تشتغل عند الضغط على الزر 
+
+
+<img src="images/game.png" height="300"/>
